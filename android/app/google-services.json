@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119516132084",
+    "project_id": "tgb-app-e24e1",
+    "storage_bucket": "tgb-app-e24e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119516132084:android:58792c7a55dd591929a4a1",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXlUH_np8jR6GfxqRRa9t8Tb-TC8mTIhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
